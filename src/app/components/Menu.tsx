@@ -9,14 +9,16 @@ export function Menu() {
       'Morango com Nutella',
       'Ninho com Nutella',
       'Cappuccino com Nutella',
-      'Morango com Chocolate Branco',
+      'Tapioca com Nutella',
+      'Morango Trufado',
       'Prestígio',
       'Brigadeiro',
       'Oreo',
+      
     ],
     Frutados: [
       'Açaí com Amendoim',
-      'Mousse de Maracujá com Chocolate',
+      'Mousse de Maracujá Trufado',
       'Mousse de Maracujá',
       'Mousse de Limão',
       'Tortinha de Limão',

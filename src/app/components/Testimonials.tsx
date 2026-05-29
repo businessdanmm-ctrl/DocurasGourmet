@@ -4,22 +4,22 @@ export function Testimonials() {
   const testimonials = [
     {
       text: 'Extremamente cremoso e muito saboroso.',
-      author: 'Juliana M.',
+      author: 'Danm R..',
     },
     {
       text: 'O de Ninho com Nutella virou meu favorito.',
-      author: 'Rafael S.',
+      author: 'Dona Neide.',
     },
     {
       text: 'Qualidade impecável e entrega rápida.',
-      author: 'Camila A.',
+      author: 'João P..',
     },
   ];
 
   const stats = [
     { label: 'Clientes Satisfeitos', value: '500+' },
-    { label: 'Sabores Disponíveis', value: '17' },
-    { label: 'Pedidos Entregues', value: '2000+' },
+    { label: 'Sabores Disponíveis', value: '18' },
+    { label: 'Pedidos Entregues', value: '1500+' },
   ];
 
   return (

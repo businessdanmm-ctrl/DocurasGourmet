@@ -1,6 +1,6 @@
 import { MessageCircle } from 'lucide-react';
 import img7959 from '../../imports/7959-1.jpg';
-import logo from '../../imports/7965-2.jpg';
+import logo from '../../imports/Card_pio_Atualizado-1.jpg'; 
 
 export function Hero() {
   const whatsappNumbers = [
